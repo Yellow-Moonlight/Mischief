@@ -1,0 +1,1 @@
+**The wooden block play panel** was designed and built to function as a sequencer. Wooden blocks from existing toys were used. A Force Sensing Resistor was employed to measure pressure, and a shift register (CD4051BE) was utilized to reduce the number of pins needed for the microcontroller.
